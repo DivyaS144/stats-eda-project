@@ -3,6 +3,8 @@
 ### 🔍 Objective
 Analyzed dataset to identify key statistical patterns, trends, and outliers using descriptive statistics and data visualization.
 
+**Note:** The dataset is proprietary to Career247 and cannot be uploaded.
+
 ### 🧠 Key Steps
 - Loaded, cleaned, and validated the dataset for missing or duplicate values.
 - Performed statistical analysis (mean, median, mode, std deviation, correlation).
